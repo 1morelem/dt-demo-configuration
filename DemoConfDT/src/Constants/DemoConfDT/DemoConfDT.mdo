@@ -5,10 +5,10 @@
     <valueManagerType typeId="988372ac-0279-4371-8685-cb322c52f3ea" valueTypeId="55f23324-5142-4f6d-80bb-a1b0b82a19fe"/>
     <valueKeyType typeId="0ea0c98d-e9fd-45bb-a3e2-07a3af80b7d7" valueTypeId="52bd3776-4d14-4155-9536-d34a2ce20e93"/>
   </producedTypes>
-  <name>DemoConfEDT</name>
+  <name>DemoConfDT</name>
   <synonym>
     <key>ru</key>
-    <value>Demo conf EDT</value>
+    <value>Demo conf DT</value>
   </synonym>
   <type>
     <types>String</types>
