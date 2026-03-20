@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="100961ac-19b4-440f-8e84-12e0166335dd">
+  <producedTypes>
+    <objectType typeId="868fc963-52c9-45eb-8168-fdab072b5555" valueTypeId="04af8370-d2a0-4c84-a8f3-4b3bbad43798"/>
+    <refType typeId="0a916532-bea3-4c5b-b1a7-67b6c31ad396" valueTypeId="e7c0ba7b-0224-4b56-9bd4-a99d7faf29e8"/>
+    <selectionType typeId="cf14c7e2-3583-4cda-9d6e-2d2490c52b2e" valueTypeId="6b035855-97fa-44fb-b206-1b75a42f4023"/>
+    <listType typeId="b57cec1c-894a-44c5-bf5c-df2befae1cab" valueTypeId="f6f4d452-9237-49eb-990a-70349124960d"/>
+    <managerType typeId="8f0bc69d-7b41-4ac5-8d5e-7bc447e4fe89" valueTypeId="41c7b595-efa5-4c3d-af46-3c54ebf0f8cb"/>
+  </producedTypes>
+  <name>DemoConfDT</name>
+  <synonym>
+    <key>ru</key>
+    <value>Demo conf DT</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.DemoConfDT.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.DemoConfDT.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
