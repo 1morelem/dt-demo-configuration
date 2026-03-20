@@ -367,6 +367,7 @@
   <catalogs>Catalog.Встречи</catalogs>
   <catalogs>Catalog.DemoConfDT</catalogs>
   <catalogs>Catalog.Справочник</catalogs>
+  <catalogs>Catalog.ABABA</catalogs>
   <documents>Document.Заказ</documents>
   <documents>Document.ОперацияПоУчетуТоваров</documents>
   <documents>Document.Оплата</documents>
